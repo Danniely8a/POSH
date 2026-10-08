@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const src=path.resolve('src');
+const embed=file=>{const extension=path.extname(file).slice(1);const mime=extension==='svg'?'image/svg+xml':`image/${extension}`;return `data:${mime};base64,${fs.readFileSync(path.join(src,file)).toString('base64')}`};
+let html=fs.readFileSync(path.join(src,'index.html'),'utf8');
+const products=JSON.parse(fs.readFileSync(path.join(src,'products.json'),'utf8'));
+for(const p of products)if(p.image)p.image=embed(p.image);
+html=html.replace(/src="(assets\/[^"<>]+)"/g,(_,file)=>`src="${embed(file)}"`);
+html=html.replace('<link rel="stylesheet" href="style.css">',`<style>${fs.readFileSync(path.join(src,'style.css'),'utf8')}</style>`);
+html=html.replace('<!-- CATALOG_DATA -->',`<script id="catalog-data" type="application/json">${JSON.stringify(products).replace(/<\//g,'<\\/')}</script>`);
+const js=fs.readFileSync(path.join(src,'config.js'),'utf8')+'\n'+fs.readFileSync(path.join(src,'app.js'),'utf8');
+html=html.replace('<script src="app.js"></script>',`<script>${js.replace(/<\/script/gi,'<\\/script')}</script>`);
+fs.mkdirSync('dist',{recursive:true});fs.writeFileSync('dist/index.html',html);
+console.log(`POSH listo: ${products.length} productos, ${products.filter(p=>p.image).length} fotografías. Salida: dist/index.html`);

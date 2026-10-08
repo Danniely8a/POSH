@@ -1,0 +1,2050 @@
+[
+  {
+    "code": "BISA-001",
+    "name": "Bisagra 90º Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra 90º Con Freno\nColor: Plateado",
+    "image": "assets/BISA-001.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-002",
+    "name": "Bisagra 165º Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra 165º Con Freno\nColor: Plateado",
+    "image": "assets/BISA-002.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-003",
+    "name": "Bisagra 135º Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra 135º Con Freno\nColor: Plateado",
+    "image": "assets/BISA-003.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-004",
+    "name": "Bisagra Recta 4D Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Recta 4D Con Freno\nColor: Plateado\nAjuste: Freno, Profundidad, Base Arriba y Abajo,\nLaterales",
+    "image": "assets/BISA-004.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-005",
+    "name": "Bisagra Recta 4D Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Recta 4D Con Freno\nColor: Titanium\nAjuste: Freno, Profundidad, Base Arriba y Abajo,\nLaterales.",
+    "image": "assets/BISA-005.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-006",
+    "name": "Bisagra Semicurva Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Semicurva Con Freno\nColor: Plateado",
+    "image": "assets/BISA-006.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-007",
+    "name": "Bisagra Semicurva Con Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Semicurva Con Freno\nColor: Negro",
+    "image": "assets/BISA-007.webp",
+    "page": 2
+  },
+  {
+    "code": "BISA-008",
+    "name": "Bisagra Recta C/Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Recta C/Freno\nColor: Plateado",
+    "image": "assets/BISA-008.webp",
+    "page": 3
+  },
+  {
+    "code": "BISA-009",
+    "name": "Bisagra Semicurva C/Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Semicurva C/Freno\nColor: Plateado",
+    "image": "assets/BISA-009.webp",
+    "page": 3
+  },
+  {
+    "code": "BISA-010",
+    "name": "Bisagra curva C/Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra curva C/Freno\nColor: Plateado",
+    "image": "assets/BISA-010.webp",
+    "page": 3
+  },
+  {
+    "code": "BISA-011",
+    "name": "Bisagra Recta Sin Freno",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Recta Sin Freno\nColor: Plateado",
+    "image": "assets/BISA-011.webp",
+    "page": 3
+  },
+  {
+    "code": "BISA-012",
+    "name": "Bisagra Recta Con Freno Clip-On",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra Recta Con Freno Clip-On\nColor: Plateado",
+    "image": "assets/BISA-012.webp",
+    "page": 3
+  },
+  {
+    "code": "LUZB-001",
+    "name": "Luz Para Bisagra",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Luz Para Bisagra\nColor: Gris",
+    "image": "assets/LUZB-001.webp",
+    "page": 3
+  },
+  {
+    "code": "BISA-012-BRUSH",
+    "name": "Bisagra 3X3",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra 3X3\nMaterial: Acero 304\nAcabado: Brushed Nickel",
+    "image": "assets/BISA-012-BRUSH.webp",
+    "page": 3
+  },
+  {
+    "code": "BISA-012-BLACK",
+    "name": "Bisagra 3X3",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Bisagra 3X3\nMaterial: Acero 304\nAcabado: Negro",
+    "image": "assets/BISA-012-BLACK.webp",
+    "page": 4
+  },
+  {
+    "code": "PIN-001",
+    "name": "Soporte Con Pin Transparente",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Soporte Con Pin Transparente\nColor: Plateado",
+    "image": "assets/PIN-001.webp",
+    "page": 4
+  },
+  {
+    "code": "SOPI-001",
+    "name": "Soporte Invisible",
+    "category": "Bisagras y soportes",
+    "details": "Medida: 20CM\nTipo: Soporte Invisible\nColor: Plateado",
+    "image": "assets/SOPI-001.webp",
+    "page": 4
+  },
+  {
+    "code": "MANI-03",
+    "name": "Manilla Para Puerta",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Manilla Para Puerta\nLargo: 60cm\nAcabado: Satinado\nMaterial: Acero Inoxidable 201",
+    "image": "assets/MANI-03.webp",
+    "page": 4
+  },
+  {
+    "code": "MANI-02",
+    "name": "Manilla Para Puerta",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Manilla Para Puerta\nLargo: 60cm\nAcabado: Brushed\nMaterial: Acero Inoxidable 201",
+    "image": "assets/MANI-02.webp",
+    "page": 4
+  },
+  {
+    "code": "MANI-01-NEGRO",
+    "name": "Manilla Para Puerta",
+    "category": "Bisagras y soportes",
+    "details": "Tipo: Manilla Para Puerta\nLargo: 60cm\nAcabado: Negro Mate\nMaterial: Acero Inoxidable 201",
+    "image": "assets/MANI-01-NEGRO.webp",
+    "page": 4
+  },
+  {
+    "code": "GIRA-01",
+    "name": "GIRA-01",
+    "category": "Bisagras y soportes",
+    "details": "Color: Plateado\nPara Puertas Hasta De 60kg\nAltura Máxima 1.60m",
+    "image": "assets/GIRA-01.webp",
+    "page": 4
+  },
+  {
+    "code": "TELES-25",
+    "name": "TELES-25",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 25cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-25.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-30",
+    "name": "TELES-30",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 30cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-30.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-35",
+    "name": "TELES-35",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 35cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-35.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-40",
+    "name": "TELES-40",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 40cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-40.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-45",
+    "name": "TELES-45",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 45cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-45.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-50",
+    "name": "TELES-50",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 50cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-50.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-55",
+    "name": "TELES-55",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 55cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-55.webp",
+    "page": 5
+  },
+  {
+    "code": "TELES-60",
+    "name": "TELES-60",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 60cm\nMaterial: Acero Inoxidable",
+    "image": "assets/TELES-60.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-25",
+    "name": "TELESFRENO-25",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 25cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-25.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-30",
+    "name": "TELESFRENO-30",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 30cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-30.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-35",
+    "name": "TELESFRENO-35",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 35cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-35.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-40",
+    "name": "TELESFRENO-40",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 40cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-40.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-45",
+    "name": "TELESFRENO-45",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 45cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-45.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-50",
+    "name": "TELESFRENO-50",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 50cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-50.webp",
+    "page": 6
+  },
+  {
+    "code": "TELESFRENO-55",
+    "name": "TELESFRENO-55",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 55cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-55.webp",
+    "page": 7
+  },
+  {
+    "code": "TELESFRENO-60",
+    "name": "TELESFRENO-60",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 60cm\nMaterial: Acero Inoxidable\nCon Freno",
+    "image": "assets/TELESFRENO-60.webp",
+    "page": 7
+  },
+  {
+    "code": "INV-FRENO30",
+    "name": "Corredera Invisible con freno 30cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 300\nTipo: Corredera Invisible con freno 30cm",
+    "image": "assets/INV-FRENO30.webp",
+    "page": 7
+  },
+  {
+    "code": "INV-FRENO35",
+    "name": "Corredera Invisible con freno 35cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 350\nTipo: Corredera Invisible con freno 35cm",
+    "image": "assets/INV-FRENO35.webp",
+    "page": 7
+  },
+  {
+    "code": "INV-FRENO40",
+    "name": "Corredera Invisible con freno 40cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 400\nTipo: Corredera Invisible con freno 40cm",
+    "image": "assets/INV-FRENO40.webp",
+    "page": 7
+  },
+  {
+    "code": "INV-FRENO45",
+    "name": "Corredera Invisible con freno 45cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 450\nTipo: Corredera Invisible con freno 45cm",
+    "image": "assets/INV-FRENO45.webp",
+    "page": 7
+  },
+  {
+    "code": "INV-FRENO50",
+    "name": "Corredera Invisible con freno 50cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 500\nTipo: Corredera Invisible con freno 50cm",
+    "image": "assets/INV-FRENO50.webp",
+    "page": 7
+  },
+  {
+    "code": "INV-FRENO55",
+    "name": "Corredera Invisible con freno 55cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 550\nTipo: Corredera Invisible con freno 55cm",
+    "image": "assets/INV-FRENO55.webp",
+    "page": 8
+  },
+  {
+    "code": "INV-PUSH30",
+    "name": "Corredera Invisible con Push 30cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 300\nTipo: Corredera Invisible con Push 30cm",
+    "image": "assets/INV-PUSH30.webp",
+    "page": 8
+  },
+  {
+    "code": "INV-PUSH35",
+    "name": "Corredera Invisible con Push 35cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 350\nTipo: Corredera Invisible con Push 35cm",
+    "image": "assets/INV-PUSH35.webp",
+    "page": 8
+  },
+  {
+    "code": "INV-PUSH40",
+    "name": "Corredera Invisible con Push 40cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 400\nTipo: Corredera Invisible con Push 40cm",
+    "image": "assets/INV-PUSH40.webp",
+    "page": 8
+  },
+  {
+    "code": "INV-PUSH45",
+    "name": "Corredera Invisible con Push 45cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 450\nTipo: Corredera Invisible con Push 45cm",
+    "image": "assets/INV-PUSH45.webp",
+    "page": 8
+  },
+  {
+    "code": "INV-PUSH50",
+    "name": "Corredera Invisible con Push 50cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 500\nTipo: Corredera Invisible con Push 50cm",
+    "image": "assets/INV-PUSH50.webp",
+    "page": 8
+  },
+  {
+    "code": "INV-PUSH55",
+    "name": "Corredera Invisible con Push 55cm",
+    "category": "Correderas y gavetas",
+    "details": "Medida (mm): 550\nTipo: Corredera Invisible con Push 55cm",
+    "image": "assets/INV-PUSH55.webp",
+    "page": 8
+  },
+  {
+    "code": "PUSH-001",
+    "name": "Corredera Push Con Freno",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 35CM\nTipo: Corredera Push Con Freno\nColor: Plateado",
+    "image": "assets/PUSH-001.webp",
+    "page": 9
+  },
+  {
+    "code": "PUSH-002",
+    "name": "Corredera Push Con Freno",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 40CM\nTipo: Corredera Push Con Freno\nColor: Plateado",
+    "image": "assets/PUSH-002.webp",
+    "page": 9
+  },
+  {
+    "code": "PUSH-003",
+    "name": "Corredera Push Con Freno",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 45CM\nTipo: Corredera Push Con Freno\nColor: Plateado",
+    "image": "assets/PUSH-003.webp",
+    "page": 9
+  },
+  {
+    "code": "PUSH-004",
+    "name": "Corredera Push Con Freno",
+    "category": "Correderas y gavetas",
+    "details": "Medida: 50CM\nTipo: Corredera Push Con Freno\nColor: Plateado",
+    "image": "assets/PUSH-004.webp",
+    "page": 9
+  },
+  {
+    "code": "GAV-002",
+    "name": "GAV-002",
+    "category": "Correderas y gavetas",
+    "details": "Gaveton Gris 4D\nProfundidad de gaveta: 50CM\nAltura Laterales: 18CM",
+    "image": "assets/GAV-002.webp",
+    "page": 9
+  },
+  {
+    "code": "GAV-001",
+    "name": "GAV-001",
+    "category": "Correderas y gavetas",
+    "details": "Gaveton Gris 4D Con Freno\nProfundidad de gaveta: 50CM\nAltura Laterales: 13,2CM",
+    "image": "assets/GAV-001.webp",
+    "page": 9
+  },
+  {
+    "code": "EC-01B",
+    "name": "EC-01B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medida (mm): 110X110X31\nPuertos: 2 110V + 2 USB-A + 1 USB-C\nColor: Blanca\nCable de 1 metro",
+    "image": "assets/EC-01B.webp",
+    "page": 10
+  },
+  {
+    "code": "EC-02B",
+    "name": "EC-02B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medida (mm): 132X48X40\nPuertos: 6 110V + 2 USB-A + 1 USB-C\nColor: Blanca\nCable de 1 metro",
+    "image": "assets/EC-02B.webp",
+    "page": 10
+  },
+  {
+    "code": "EC-03B",
+    "name": "EC-03B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medida (mm): 115X95X40\nPuertos: 8 110V + 2 USB-A + 2 USB-C\nColor: Blanca\nCable de 1 metro",
+    "image": "assets/EC-03B.webp",
+    "page": 10
+  },
+  {
+    "code": "EC-04B",
+    "name": "EC-04B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medida (mm): 295x55x50\nPuertos: 12 110V + 3 USB-A\nColor: Blanca\nCable de 1 metro",
+    "image": "assets/EC-04B.webp",
+    "page": 10
+  },
+  {
+    "code": "EC-05B",
+    "name": "EC-05B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medida (mm): 150X55X49\nPuertos: 6 110V + 2 USB-A + 1 USB-C\nColor: B   Cable de 1 metro",
+    "image": "assets/EC-05B.webp",
+    "page": 10
+  },
+  {
+    "code": "ECS-01-B",
+    "name": "ECS-01-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medidas (mm): 170X55X41\nTomas: 2 AC / 2 USB-A / 1 USB-C\nCable: 2 metros\nColor: Blanco",
+    "image": "assets/ECS-01-B.webp",
+    "page": 10
+  },
+  {
+    "code": "ECS-01-N",
+    "name": "ECS-01-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medidas (mm): 170X55X41\nTomas: 2 AC / 2 USB-A / 1 USB-C\nCable: 2 metros\nColor: Negro",
+    "image": "assets/ECS-01-N.webp",
+    "page": 11
+  },
+  {
+    "code": "EC-09-B",
+    "name": "EC-09-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 80\nAltura (mm): 90\nColor: Blanca\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCable de 2 metros...",
+    "image": "assets/EC-09-B.webp",
+    "page": 11
+  },
+  {
+    "code": "EC-09-N",
+    "name": "EC-09-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 80\nAltura (mm): 90\nColor: Negra\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCable de 2 metros...",
+    "image": "assets/EC-09-N.webp",
+    "page": 11
+  },
+  {
+    "code": "EC-09T-B",
+    "name": "EC-09T-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 80\nAltura (mm): 90\nColor: Blanca\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCable de 2 metros...",
+    "image": "assets/EC-09T-B.webp",
+    "page": 11
+  },
+  {
+    "code": "EC-09T-N",
+    "name": "EC-09T-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 80\nAltura (mm): 90\nColor: Negra\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCable de 2 metros...",
+    "image": "assets/EC-09T-N.webp",
+    "page": 11
+  },
+  {
+    "code": "EC-011-B",
+    "name": "EC-011-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 130\nAltura (mm): 140\nColor: Blanca\nTomas: 3 AC / 1 USB-A / 1 USB-C\n1 Carga Inalámbrica...",
+    "image": "assets/EC-011-B.webp",
+    "page": 11
+  },
+  {
+    "code": "EC-011-N",
+    "name": "EC-011-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 130\nAltura (mm): 140\nColor: Negra\nTomas: 3 AC / 1 USB-A / 1 USB-C\n1 Carga Inalámbrica...",
+    "image": "assets/EC-011-N.webp",
+    "page": 12
+  },
+  {
+    "code": "EC-011-P",
+    "name": "EC-011-P",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 130\nAltura (mm): 140\nColor: Plata/Gris\nTomas: 3 AC / 1 USB-A / 1 USB-C\n1 Carga Inalámbrica...",
+    "image": "assets/EC-011-P.webp",
+    "page": 12
+  },
+  {
+    "code": "EC-080L-B",
+    "name": "EC-080L-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medidas (mm): 90x90x100\nTapa con Carga Inalámbrica\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCable: 2 metros\nColor: Blanco...",
+    "image": "assets/EC-080L-B.webp",
+    "page": 12
+  },
+  {
+    "code": "EC-080L-N",
+    "name": "EC-080L-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Medidas (mm): 90x90x100\nTapa con Carga Inalámbrica\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCable: 2 metros\nColor: Negro...",
+    "image": "assets/EC-080L-N.webp",
+    "page": 12
+  },
+  {
+    "code": "EC-201-P",
+    "name": "EC-201-P",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 85\nAltura (mm): 224\nColor: Plata/Negra\nTomas: 3 AC / 2 USB-A / 1 USB-C\nCable de 2 metros...",
+    "image": "assets/EC-201-P.webp",
+    "page": 12
+  },
+  {
+    "code": "EC-201-N",
+    "name": "EC-201-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 85\nAltura (mm): 224\nColor: Negra\nTomas: 3 AC / 2 USB-A / 1 USB-C\nCable de 2 metros...",
+    "image": "assets/EC-201-N.webp",
+    "page": 13
+  },
+  {
+    "code": "EC-2051-B",
+    "name": "EC-2051-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 120\nAltura (mm): 380\nColor: Blanca\nTomas: 2 AC / 1 USB-A / 1 USB-C\nCarga Inalámbrica...",
+    "image": "assets/EC-2051-B.webp",
+    "page": 13
+  },
+  {
+    "code": "EC-2051-N",
+    "name": "EC-2051-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 120\nAltura (mm): 380\nColor: Negra\nTomas: 2 AC / 1 USB-A / 1 USB-C\n1 Carga Inalámbrica...",
+    "image": "assets/EC-2051-N.webp",
+    "page": 13
+  },
+  {
+    "code": "EC-CI09-B",
+    "name": "EC-CI09-B",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 80\nAltura (mm): 90\nColor: Blanca\nTomas: 1 Carga Inalámbrica\n1 USB-A / 1 USB-C...",
+    "image": "assets/EC-CI09-B.webp",
+    "page": 13
+  },
+  {
+    "code": "EC-CI09-N",
+    "name": "EC-CI09-N",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Diámetro (mm): 80\nAltura (mm): 90\nColor: Negra\nTomas: 1 Carga Inalámbrica\n1 USB-A / 1 USB-C...",
+    "image": "assets/EC-CI09-N.webp",
+    "page": 13
+  },
+  {
+    "code": "LED-3000",
+    "name": "Cinta Led",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Tipo: Cinta Led\nTipo De Luz: 3000K\nLargo: 5 metros\nVoltaje de funcionamiento: 12V",
+    "image": "assets/LED-3000.webp",
+    "page": 13
+  },
+  {
+    "code": "LED-4000",
+    "name": "Cinta Led",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Tipo: Cinta Led\nTipo De Luz: 4000K\nLargo: 5 metros\nVoltaje de funcionamiento: 12V",
+    "image": "assets/LED-4000.webp",
+    "page": 14
+  },
+  {
+    "code": "LED-6000",
+    "name": "Cinta Led",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Tipo: Cinta Led\nTipo De Luz: 6000K\nLargo: 5 metros\nVoltaje de funcionamiento: 12V",
+    "image": "assets/LED-6000.webp",
+    "page": 14
+  },
+  {
+    "code": "SWITCH-01",
+    "name": "Sensor Touch",
+    "category": "Estaciones de carga e iluminación",
+    "details": "Tipo: Sensor Touch\nVoltaje de funcionamiento: 12V\nColor: Blanco Luz: Azul\nMáximo Poder: 200W",
+    "image": "assets/SWITCH-01.webp",
+    "page": 14
+  },
+  {
+    "code": "LAVA-01",
+    "name": "Fregadero",
+    "category": "Fregaderos",
+    "details": "Medida: 68X45X22 CM\nTipo: Fregadero\nColor: Plateado\nIncluye: Cesta desagüe\nNO INCLUYE GRIFERIA...",
+    "image": "assets/LAVA-01.webp",
+    "page": 15
+  },
+  {
+    "code": "FREP-02",
+    "name": "FREP-02",
+    "category": "Fregaderos",
+    "details": "Medidas (mm): 680X450X230\nColor: Plateado\nIncluye: Fregador 1 tina, Bandeja con desagüe,\nTabla para picar, Cesta para escurrir, Lava vasos,\nFiltro de agua, Sistema de agua y desagüe....",
+    "image": "assets/FREP-02.webp",
+    "page": 15
+  },
+  {
+    "code": "FRE-N04",
+    "name": "Fregadero",
+    "category": "Fregaderos",
+    "details": "Medida: 68X45X22 CM\nTipo: Fregadero\nColor: Negro\nIncluye: Cesta desagüe\nNO INCLUYE GRIFERIA...",
+    "image": "assets/FRE-N04.webp",
+    "page": 15
+  },
+  {
+    "code": "FRE-N07",
+    "name": "FRE-N07",
+    "category": "Fregaderos",
+    "details": "Medidas (mm): 820X450X220\nColor: Negro\nIncluye: Fregador Doble Tina y Cesta de desagüe.",
+    "image": "assets/FRE-N07.webp",
+    "page": 15
+  },
+  {
+    "code": "FRE-N08",
+    "name": "FRE-N08",
+    "category": "Fregaderos",
+    "details": "Medidas (mm): 750X460X220\nColor: Negro\nIncluye: Fregador multifuncional 1 tina, Grifería, Filtro de\nagua, Cesta 45º, Cesta, Cesta de desagüe, Lava copas.",
+    "image": "assets/FRE-N08.webp",
+    "page": 15
+  },
+  {
+    "code": "FRE-N09",
+    "name": "FRE-N09",
+    "category": "Fregaderos",
+    "details": "Medidas (mm): 750X460X220\nColor: Negro\nIncluye: Fregador 1 tina, Cesta, Cesta de desagüe.",
+    "image": "assets/FRE-N09.webp",
+    "page": 15
+  },
+  {
+    "code": "FRE-P05",
+    "name": "FRE-P05",
+    "category": "Fregaderos",
+    "details": "Medidas (mm): 800X480\nColor: Gris\nIncluye:  Cesta desagüe, Escurridor de\ncuchillos y Bandeja",
+    "image": "assets/FRE-P05.webp",
+    "page": 16
+  },
+  {
+    "code": "FRE-P06",
+    "name": "FRE-P06",
+    "category": "Fregaderos",
+    "details": "Medidas (mm): 820X450X220\nColor: Brushed\nIncluye: Fregador Doble Tina y Cesta de desagüe.",
+    "image": "assets/FRE-P06.webp",
+    "page": 16
+  },
+  {
+    "code": "GRIFE-01",
+    "name": "Grifería",
+    "category": "Fregaderos",
+    "details": "Tipo: Grifería\nColor: Plateado\nAcero Inoxidable",
+    "image": "assets/GRIFE-01.webp",
+    "page": 16
+  },
+  {
+    "code": "COCI-001",
+    "name": "Magic Corner Esquinero",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 485X840X590\nTipo: Magic Corner Esquinero\nPara Mueble De 90CM\nColor: Antracita\nCOCI-002 DER\nMedida (mm): 485X860X590\nTipo: Esquinero\nPara Mueble De 90CM\nModelo Derecho\nColor: Antracita...\nCOCI-002 IZQ\nMedida (mm): 485X860X590\nTipo: Esquinero\nPara Mueble De 90CM\nModelo Izquierdo\nColor: Antracita...",
+    "image": "assets/COCI-001.webp",
+    "page": 17
+  },
+  {
+    "code": "COCI-003",
+    "name": "Condimentero Superior",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 280X765X560\nTipo: Condimentero Superior\nColor: Antracita",
+    "image": "assets/COCI-003.webp",
+    "page": 17
+  },
+  {
+    "code": "COCI-004",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Medida: Para Mueble De 15CM\nTipo: Condimentero\nColor: Antracita\nIncluye: Correderas Invisibles Con Freno",
+    "image": "assets/COCI-004.webp",
+    "page": 17
+  },
+  {
+    "code": "COCI-005",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Medida: Para Mueble De 20CM\nTipo: Condimentero\nColor: Antracita\nIncluye: Correderas Invisibles Con Freno",
+    "image": "assets/COCI-005.webp",
+    "page": 17
+  },
+  {
+    "code": "COCI-006",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Medida: Para Mueble De 30CM\nTipo: Condimentero\nColor: Antracita\nIncluye: Correderas Invisibles Con Freno",
+    "image": "assets/COCI-006.webp",
+    "page": 18
+  },
+  {
+    "code": "COCI-007",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Medida: Para Mueble De 35CM\nTipo: Condimentero\nColor: Antracita\nIncluye: Correderas Invisibles Con Freno",
+    "image": "assets/COCI-007.webp",
+    "page": 18
+  },
+  {
+    "code": "COCI-008",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Medida: Para Mueble De 40CM\nTipo: Condimentero\nColor: Antracita\nIncluye: Correderas Invisibles Con Freno",
+    "image": "assets/COCI-008.webp",
+    "page": 18
+  },
+  {
+    "code": "COCI-027-400",
+    "name": "Cesta Organizadora",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cesta Organizadora\nMedida (mm): 490X365X105\nPara Mueble de 40cm\nAcabado: Antracita",
+    "image": "assets/COCI-027-400.webp",
+    "page": 18
+  },
+  {
+    "code": "COCI-027-450",
+    "name": "Cesta Organizadora",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cesta Organizadora\nMedida (mm): 490X430X105\nPara Mueble de 45cm\nAcabado: Antracita",
+    "image": "assets/COCI-027-450.webp",
+    "page": 18
+  },
+  {
+    "code": "COCI-027-600",
+    "name": "Cesta Organizadora",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cesta Organizadora\nMedida (mm): 490X565X105\nPara Mueble de 60cm\nAcabado: Antracita",
+    "image": "assets/COCI-027-600.webp",
+    "page": 18
+  },
+  {
+    "code": "COCI-027-800",
+    "name": "Cesta Organizadora",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cesta Organizadora\nMedida (mm): 490X765X105\nPara Mueble de 80cm\nAcabado: Antracita\nCOCI-009 DER\nMedida (mm): 370X825X600\nTipo: Esquinero Curvo\nModelo Derecho\nColor: Antracita\nCOCI-009 IZQ\nMedida (mm): 370X825X600\nTipo: Esquinero Curvo\nModelo Izquierdo\nColor: Antracita",
+    "image": "assets/COCI-027-800.webp",
+    "page": 19
+  },
+  {
+    "code": "COCI-024",
+    "name": "Cesta Giratoria",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cesta Giratoria\nMedida (mm): 810X500X600-750\nAcabado: Antracita\nPara Mueble de 90cm",
+    "image": "assets/COCI-024.webp",
+    "page": 19
+  },
+  {
+    "code": "COCI-010",
+    "name": "COCI-010",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 470X146X1604\nSistema Con Freno\nPara Puerta Hasta De 60kg",
+    "image": "assets/COCI-010.webp",
+    "page": 19
+  },
+  {
+    "code": "COCI-011",
+    "name": "Torre 5 Cestas 40CM",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Torre 5 Cestas 40CM\nColor: Antracita",
+    "image": "assets/COCI-011.webp",
+    "page": 19
+  },
+  {
+    "code": "COCI-012",
+    "name": "Torre 6 Cestas x 2",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 530X365x(1920-2220)\nTipo: Torre 6 Cestas x 2\nCestas De 45CM\nColor: Antracita",
+    "image": "assets/COCI-012.webp",
+    "page": 20
+  },
+  {
+    "code": "COCI-013",
+    "name": "Torre 5 Cestas 45CM",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 492X385X1503\nTipo: Torre 5 Cestas 45CM\nColor: Antracita",
+    "image": "assets/COCI-013.webp",
+    "page": 20
+  },
+  {
+    "code": "COCI-023",
+    "name": "Torre Despensa Curvo",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 564X520X1500-1800\nTipo: Torre Despensa Curvo\nPara Modulo de 60CM\n5 Niveles",
+    "image": "assets/COCI-023.webp",
+    "page": 20
+  },
+  {
+    "code": "COCI-021-DER",
+    "name": "Esquinero Curvo",
+    "category": "Accesorios de cocina",
+    "details": "Medida(mm): 830X490X600-750\nTipo: Esquinero Curvo\nModelo Derecho\nColor: Gris\nPara mueble de 90CM...",
+    "image": "assets/COCI-021-DER.webp",
+    "page": 20
+  },
+  {
+    "code": "COCI-022-IZQ",
+    "name": "Esquinero Curvo",
+    "category": "Accesorios de cocina",
+    "details": "Medida(mm): 830X490X600-750\nTipo: Esquinero Curvo\nModelo Izquierdo\nColor: Gris\nPara mueble de 90CM...",
+    "image": "assets/COCI-022-IZQ.webp",
+    "page": 20
+  },
+  {
+    "code": "COCI-014",
+    "name": "COCI-014",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 280X565X65\nPara Mueble De 60CM\nColor: Plateado",
+    "image": "assets/COCI-014.webp",
+    "page": 20
+  },
+  {
+    "code": "COCI-015",
+    "name": "COCI-015",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 280X665X65\nPara Mueble De 70CM\nColor: Plateado",
+    "image": "assets/COCI-015.webp",
+    "page": 21
+  },
+  {
+    "code": "COCI-016",
+    "name": "COCI-016",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 280X765X65\nPara Mueble De 80CM\nColor: Plateado",
+    "image": "assets/COCI-016.webp",
+    "page": 21
+  },
+  {
+    "code": "COCI-017",
+    "name": "COCI-017",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 280X865X65\nPara Mueble De 90CM\nColor: Plateado",
+    "image": "assets/COCI-017.webp",
+    "page": 21
+  },
+  {
+    "code": "CON-15",
+    "name": "CON-15",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 450X105X430\nPara Módulo De 15CM\nModelo Con Freno",
+    "image": "assets/CON-15.webp",
+    "page": 21
+  },
+  {
+    "code": "CON-20",
+    "name": "CON-20",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 450X145X430\nPara Módulo De 20CM\nModelo Con Freno",
+    "image": "assets/CON-20.webp",
+    "page": 21
+  },
+  {
+    "code": "CON-30",
+    "name": "CON-30",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 450X240X430\nPara Módulo De 30CM\nModelo Con Freno",
+    "image": "assets/CON-30.webp",
+    "page": 21
+  },
+  {
+    "code": "COCI-02",
+    "name": "Porta Ollas Negro",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Porta Ollas Negro\nMedida (mm): 85X360X107\nAcabado: Negro\nPara Mueble de 30cm",
+    "image": "assets/COCI-02.webp",
+    "page": 21
+  },
+  {
+    "code": "ESCU-01",
+    "name": "Escurridor De Platos",
+    "category": "Accesorios de cocina",
+    "details": "Medida: 70 CM\nTipo: Escurridor De Platos\nColor: Plateado",
+    "image": "assets/ESCU-01.webp",
+    "page": 22
+  },
+  {
+    "code": "COCI-026",
+    "name": "Organizador",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Organizador\nMedida (mm): 180X430X430\nMaterial: Acero Inoxidable",
+    "image": "assets/COCI-026.webp",
+    "page": 22
+  },
+  {
+    "code": "COCI-020",
+    "name": "Brazo Doble Automático Para Puerta",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Brazo Doble Automático Para Puerta\nColor: Plateado",
+    "image": "assets/COCI-020.webp",
+    "page": 22
+  },
+  {
+    "code": "CON-SF-15",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Condimentero\nMedida (mm): 100X460X500\nPara Módulo De 15CM\nModelo Sin Freno",
+    "image": "assets/CON-SF-15.webp",
+    "page": 22
+  },
+  {
+    "code": "CON-SF-20",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Condimentero\nMedida (mm): 150X460X500\nPara Módulo De 20CM\nModelo Sin Freno",
+    "image": "assets/CON-SF-20.webp",
+    "page": 22
+  },
+  {
+    "code": "CON-SF-25",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Condimentero\nMedida (mm): 200X460X500\nPara Módulo De 25CM\nModelo Sin Freno",
+    "image": "assets/CON-SF-25.webp",
+    "page": 22
+  },
+  {
+    "code": "CON-SF-30",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Condimentero\nMedida (mm): 250X460X500\nPara Módulo De 30CM\nModelo Sin Freno",
+    "image": "assets/CON-SF-30.webp",
+    "page": 23
+  },
+  {
+    "code": "CON-FRE-15",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Condimentero\nMedida (mm): 100X460X500\nPara Módulo De 15CM\nModelo Con Freno",
+    "image": "assets/CON-FRE-15.webp",
+    "page": 23
+  },
+  {
+    "code": "CON-FRE-20",
+    "name": "Condimentero",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Condimentero\nMedida (mm): 150X460X500\nPara Módulo De 20CM\nModelo Con Freno",
+    "image": "assets/CON-FRE-20.webp",
+    "page": 23
+  },
+  {
+    "code": "RODA-001",
+    "name": "Rodapiés 10CM",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 4000X100\nTipo: Rodapiés 10CM\nColor: Plateado",
+    "image": "assets/RODA-001.webp",
+    "page": 23
+  },
+  {
+    "code": "TIP-001",
+    "name": "Tip On Imán",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Tip On Imán\nColor: Gris",
+    "image": "assets/TIP-001.webp",
+    "page": 23
+  },
+  {
+    "code": "RODA-002",
+    "name": "Rodapiés 15CM",
+    "category": "Accesorios de cocina",
+    "details": "Medida (mm): 4000X150\nTipo: Rodapiés 15CM\nColor: Plateado",
+    "image": "assets/RODA-002.webp",
+    "page": 23
+  },
+  {
+    "code": "TIP-002",
+    "name": "Tip On Imán",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Tip On Imán\nColor: Blanco",
+    "image": "assets/TIP-002.webp",
+    "page": 23
+  },
+  {
+    "code": "RODA-003",
+    "name": "Rodapiés 10CM",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 4000X100\nTipo: Rodapiés 10CM\nColor: Negro",
+    "image": "assets/RODA-003.webp",
+    "page": 24
+  },
+  {
+    "code": "TIP-003",
+    "name": "Tip On Goma",
+    "category": "Rodapiés",
+    "details": "Tipo: Tip On Goma\nColor: Gris",
+    "image": "assets/TIP-003.webp",
+    "page": 24
+  },
+  {
+    "code": "RODA-004",
+    "name": "Rodapiés 15CM",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 4000X150\nTipo: Rodapiés 15CM\nColor: Negro",
+    "image": "assets/RODA-004.webp",
+    "page": 24
+  },
+  {
+    "code": "TIP-004",
+    "name": "Tip On Goma",
+    "category": "Rodapiés",
+    "details": "Tipo: Tip On Goma\nColor: Blanco",
+    "image": "assets/TIP-004.webp",
+    "page": 24
+  },
+  {
+    "code": "RODA-005",
+    "name": "Unión H",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 100\nTipo: Unión H\nColor: Plateado",
+    "image": "assets/RODA-005.webp",
+    "page": 24
+  },
+  {
+    "code": "RODA-006",
+    "name": "Unión H",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 150\nTipo: Unión H\nColor: Plateado",
+    "image": "assets/RODA-006.webp",
+    "page": 24
+  },
+  {
+    "code": "RODA-007",
+    "name": "Unión H",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 100\nTipo: Unión H\nColor: Negro",
+    "image": "assets/RODA-007.webp",
+    "page": 24
+  },
+  {
+    "code": "RODA-008",
+    "name": "Unión H",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 150\nTipo: Unión H\nColor: Negro",
+    "image": "assets/RODA-008.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-009",
+    "name": "Unión Flexible",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 100\nTipo: Unión Flexible\nColor: Negro",
+    "image": "assets/RODA-009.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-010",
+    "name": "Unión Flexible",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 150\nTipo: Unión Flexible\nColor: Negro",
+    "image": "assets/RODA-010.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-011",
+    "name": "Unión Flexible 10CM",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 100\nTipo:  Unión Flexible 10CM\nColor: Plateado",
+    "image": "assets/RODA-011.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-012",
+    "name": "Unión Flexible",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 150\nTipo: Unión Flexible\nColor: Plateado",
+    "image": "assets/RODA-012.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-013",
+    "name": "Unión Angulo",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 100\nTipo: Unión Angulo\nColor: Negro",
+    "image": "assets/RODA-013.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-014",
+    "name": "Unión Angulo",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 150\nTipo: Unión Angulo\nColor: Negro",
+    "image": "assets/RODA-014.webp",
+    "page": 25
+  },
+  {
+    "code": "RODA-015",
+    "name": "Unión Angulo",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 100\nTipo: Unión Angulo\nColor: Plateado",
+    "image": "assets/RODA-015.webp",
+    "page": 26
+  },
+  {
+    "code": "RODA-016",
+    "name": "Unión Angulo",
+    "category": "Rodapiés",
+    "details": "Medida (mm): 150\nTipo: Unión Angulo\nColor: Plateado",
+    "image": "assets/RODA-016.webp",
+    "page": 26
+  },
+  {
+    "code": "CON-FRE-25",
+    "name": "Condimentero",
+    "category": "Rodapiés",
+    "details": "Tipo: Condimentero\nMedida (mm): 200X460X500\nPara Módulo De 25CM\nModelo Con Freno",
+    "image": "assets/CON-FRE-25.webp",
+    "page": 26
+  },
+  {
+    "code": "CON-FRE-30",
+    "name": "Condimentero",
+    "category": "Rodapiés",
+    "details": "Tipo: Condimentero\nMedida (mm): 250X460X500\nPara Módulo De 30CM\nModelo Con Freno",
+    "image": "assets/CON-FRE-30.webp",
+    "page": 26
+  },
+  {
+    "code": "CUBER-450MM-B",
+    "name": "Cubertero Blanco",
+    "category": "Rodapiés",
+    "details": "Tipo: Cubertero Blanco\nMedidas (mm):\n(MAX) 390X485X60 (MIN) 340X440X60\nPara Mueble De 45cm",
+    "image": "assets/CUBER-450MM-B.webp",
+    "page": 26
+  },
+  {
+    "code": "CUBER-450MM-G",
+    "name": "Cubertero Gris",
+    "category": "Rodapiés",
+    "details": "Tipo: Cubertero Gris\nMedidas (mm):\n(MAX) 390X485X60 (MIN) 340X440X60\nPara Mueble De 45cm",
+    "image": "assets/CUBER-450MM-G.webp",
+    "page": 26
+  },
+  {
+    "code": "CUBER-500MM-B",
+    "name": "Cubertero Blanco",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Blanco\nMedidas (mm):\n(MAX) 435X485X60 (MIN) 380X440X60\nPara Mueble De 50cm",
+    "image": "assets/CUBER-500MM-B.webp",
+    "page": 27
+  },
+  {
+    "code": "CUBER-500MM-G",
+    "name": "Cubertero Gris",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Gris\nMedidas (mm):\n(MAX) 435X485X60 (MIN) 380X440X60\nPara Mueble De 50cm",
+    "image": "assets/CUBER-500MM-G.webp",
+    "page": 27
+  },
+  {
+    "code": "CUBER-600MM-B",
+    "name": "Cubertero Blanco",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Blanco\nMedidas (mm):\n(MAX) 540X485X60 (MIN) 485X440X60\nPara Mueble De 60cm",
+    "image": "assets/CUBER-600MM-B.webp",
+    "page": 27
+  },
+  {
+    "code": "CUBER-600MM-G",
+    "name": "Cubertero Gris",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Gris\nMedidas (mm):\n(MAX) 540X485X60 (MIN) 485X440X60\nPara Mueble De 60cm",
+    "image": "assets/CUBER-600MM-G.webp",
+    "page": 27
+  },
+  {
+    "code": "CUBER-700MM-B",
+    "name": "Cubertero Blanco",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Blanco\nMedidas (mm):\n(MAX) 635X485X60 (MIN) 580X440X60\nPara Mueble De 70cm",
+    "image": "assets/CUBER-700MM-B.webp",
+    "page": 27
+  },
+  {
+    "code": "CUBER-700MM-G",
+    "name": "Cubertero Gris",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Gris\nMedidas (mm):\n(MAX) 635X485X60 (MIN) 580X440X60\nPara Mueble De 70cm",
+    "image": "assets/CUBER-700MM-G.webp",
+    "page": 27
+  },
+  {
+    "code": "CUBER-800MM-B",
+    "name": "Cubertero Blanco",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Blanco\nMedidas (mm):\n(MAX) 735X485X60 (MIN) 680X440X60\nPara Mueble De 80cm",
+    "image": "assets/CUBER-800MM-B.webp",
+    "page": 28
+  },
+  {
+    "code": "CUBER-800MM-G",
+    "name": "Cubertero Gris",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Gris\nMedidas (mm):\n(MAX) 735X485X60 (MIN) 680X440X60\nPara Mueble De 80cm",
+    "image": "assets/CUBER-800MM-G.webp",
+    "page": 28
+  },
+  {
+    "code": "CUBER-900MM-B",
+    "name": "Cubertero Blanco",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Blanco\nMedidas (mm):\n(MAX) 830X485X55 (MIN) 790X440X55\nPara Mueble De 90cm",
+    "image": "assets/CUBER-900MM-B.webp",
+    "page": 28
+  },
+  {
+    "code": "CUBER-900MM-G",
+    "name": "Cubertero Gris",
+    "category": "Accesorios de cocina",
+    "details": "Tipo: Cubertero Gris\nMedidas (mm):\n(MAX) 830X485X55 (MIN) 790X440X55\nPara Mueble De 90cm",
+    "image": "assets/CUBER-900MM-G.webp",
+    "page": 28
+  },
+  {
+    "code": "CLO-001",
+    "name": "Organizador Dividido",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 764X492X50\nTipo: Organizador Dividido\nPara Modulo De 80CM\nColor: Aluminio + Cuero\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-001.webp",
+    "page": 29
+  },
+  {
+    "code": "CLO-002",
+    "name": "Organizador Plano",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 764X492X106\nTipo: Organizador Plano\nPara Modulo Para 80CM\nColor: Aluminio + Cuero\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-002.webp",
+    "page": 29
+  },
+  {
+    "code": "CLO-003",
+    "name": "Organizador Cesta",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 764X492X265\nTipo: Organizador Cesta\nPara Modulo De 80CM\nColor: Aluminio + Cuero\nIncluye correderas invisibles con freno...",
+    "image": "assets/CLO-003.webp",
+    "page": 29
+  },
+  {
+    "code": "CLO-004",
+    "name": "Organizador Cesta 80CM",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 764X492X265\nTipo: Organizador Cesta 80CM\nColor: Aluminio + Cuero\nIncluye: Correderas Invisibles Con Freno",
+    "image": "assets/CLO-004.webp",
+    "page": 29
+  },
+  {
+    "code": "CLO-007",
+    "name": "Zapatera 10 Cestas",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 730X350X1630-1910\nTipo: Zapatera 10 Cestas\nColor: Gris",
+    "image": "assets/CLO-007.webp",
+    "page": 29
+  },
+  {
+    "code": "TUB-80",
+    "name": "Tubo Closet",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 800\nTipo: Tubo Closet\nColor: Aluminio + Cuero\nIncluye: Par de soporte",
+    "image": "assets/TUB-80.webp",
+    "page": 29
+  },
+  {
+    "code": "CLO-010",
+    "name": "CLO-010",
+    "category": "Herrajes para clóset",
+    "details": "Pantalonero Extraíble\nMedidas(mm): 864X472X590\nColor: Gris\nPara módulo de 90CM\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-010.webp",
+    "page": 30
+  },
+  {
+    "code": "CLO-011",
+    "name": "CLO-011",
+    "category": "Herrajes para clóset",
+    "details": "Organizador de Accesorios\nMedidas(mm): 864X472X66\nColor: Gris\nPara módulo de 90CM\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-011.webp",
+    "page": 30
+  },
+  {
+    "code": "CLO-012",
+    "name": "CLO-012",
+    "category": "Herrajes para clóset",
+    "details": "Organizador de Lencería\nMedidas(mm): 864X472X121\nColor: Gris\nPara módulo de 90CM\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-012.webp",
+    "page": 30
+  },
+  {
+    "code": "CLO-013",
+    "name": "CLO-013",
+    "category": "Herrajes para clóset",
+    "details": "Cesta Organizadora\nMedidas(mm): 864X472X56\nColor: Gris\nPara módulo de 90CM\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-013.webp",
+    "page": 30
+  },
+  {
+    "code": "CLO-014",
+    "name": "CLO-014",
+    "category": "Herrajes para clóset",
+    "details": "Organizador de Ropa\nMedidas(mm): 864X472X171\nColor: Gris\nPara módulo de 90CM\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-014.webp",
+    "page": 30
+  },
+  {
+    "code": "CLO-015",
+    "name": "CLO-015",
+    "category": "Herrajes para clóset",
+    "details": "Zapatera de Gaveta\nMedidas(mm): 864X472X204\nColor: Gris\nPara módulo de 90CM\nIncluye: Correderas Invisibles Con Freno...",
+    "image": "assets/CLO-015.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-018",
+    "name": "CLO-018",
+    "category": "Herrajes para clóset",
+    "details": "Zapatera Extraíble Giratoria\nMedidas(mm): 697X360X1700-1900\nColor: Gris\n10 Bandejas",
+    "image": "assets/CLO-018.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-005",
+    "name": "Pantalonera Sencilla",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 340X455X140\nTipo: Pantalonera Sencilla\nColor: Gris",
+    "image": "assets/CLO-005.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-016",
+    "name": "CLO-016",
+    "category": "Herrajes para clóset",
+    "details": "Pantalonero Sencillo Extraíble\nMedidas(mm): 329X475X123\nColor: Plateado",
+    "image": "assets/CLO-016.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-006-NS",
+    "name": "Pantalonero Doble",
+    "category": "Herrajes para clóset",
+    "details": "Medida(mm): 650X480X85\nTipo: Pantalonero Doble\nColor: Gris",
+    "image": "assets/CLO-006-NS.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-006",
+    "name": "Pantalonero Doble",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 630X455X115\nTipo: Pantalonero Doble\nColor: Gris",
+    "image": "assets/CLO-006.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-017",
+    "name": "CLO-017",
+    "category": "Herrajes para clóset",
+    "details": "Pantalonero Doble\nMedidas(mm): 669X475X122\nColor: Plateado",
+    "image": "assets/CLO-017.webp",
+    "page": 31
+  },
+  {
+    "code": "CLO-008",
+    "name": "Organizador Seguridad",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 150\nTipo: Organizador Seguridad\nPara Mueble De 60CM\nColor: Negro + Gris",
+    "image": "assets/CLO-008.webp",
+    "page": 32
+  },
+  {
+    "code": "CLO-008-80",
+    "name": "CLO-008-80",
+    "category": "Herrajes para clóset",
+    "details": "Gaveta de Seguridad\nMedidas(mm): 764X400X150\nColor: Gris\nPara módulo de 80CM",
+    "image": "assets/CLO-008-80.webp",
+    "page": 32
+  },
+  {
+    "code": "CLO-009",
+    "name": "Espejo con Marco",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 1200X350\nTipo: Espejo con Marco\nColor: Gris",
+    "image": "assets/CLO-009.webp",
+    "page": 32
+  },
+  {
+    "code": "PLAN-001",
+    "name": "Mesa Para Planchar Giratoria",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 295X430\nTipo: Mesa Para Planchar Giratoria\nColor: Gris",
+    "image": "assets/PLAN-001.webp",
+    "page": 32
+  },
+  {
+    "code": "CLO-009-NS",
+    "name": "Tubo Extraíble",
+    "category": "Herrajes para clóset",
+    "details": "Medida(mm): 600X830\nTipo: Tubo Extraíble\nColor: Moka",
+    "image": "assets/CLO-009-NS.webp",
+    "page": 32
+  },
+  {
+    "code": "CLO-009-NS-GRAY",
+    "name": "Tubo Extraíble",
+    "category": "Herrajes para clóset",
+    "details": "Medida(mm): 600X830\nTipo: Tubo Extraíble\nColor: Gris",
+    "image": "assets/CLO-009-NS-GRAY.webp",
+    "page": 32
+  },
+  {
+    "code": "CLO-019",
+    "name": "Tubo Electrico",
+    "category": "Herrajes para clóset",
+    "details": "Tipo: Tubo Electrico\nMedida (mm): 600-900\nCon Control Touch y De Voz\nAcabado: Gris",
+    "image": "assets/CLO-019.webp",
+    "page": 32
+  },
+  {
+    "code": "TUB-001",
+    "name": "Tubo Closet",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 3000\nTipo: Tubo Closet\nColor: Antracita\nIncluye:\nGoma antideslizante de ganchos...",
+    "image": "assets/TUB-001.webp",
+    "page": 33
+  },
+  {
+    "code": "SOP-001",
+    "name": "Soporte",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 22X15X78\nTipo: Soporte\nColor: Antracita",
+    "image": "assets/SOP-001.webp",
+    "page": 33
+  },
+  {
+    "code": "TUB-002",
+    "name": "Tubo Closet Led",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 3000\nTipo: Tubo Closet Led\nColor: Negro\nIncluye: Goma antideslizante de ganchos y Luz led\nneutra...",
+    "image": "assets/TUB-002.webp",
+    "page": 33
+  },
+  {
+    "code": "SOP-002",
+    "name": "Soporte",
+    "category": "Herrajes para clóset",
+    "details": "Tipo: Soporte\nAcabado: Negro",
+    "image": "assets/SOP-002.webp",
+    "page": 33
+  },
+  {
+    "code": "TUB-003",
+    "name": "Tubo Para Closet LED",
+    "category": "Herrajes para clóset",
+    "details": "Medida (mm): 3000\nTipo: Tubo Para Closet LED\nColor: Antracita\nIncluye: Goma antideslizante de\nganchos y luz led fría...",
+    "image": "assets/TUB-003.webp",
+    "page": 33
+  },
+  {
+    "code": "SOP-003",
+    "name": "Soporte",
+    "category": "Herrajes para clóset",
+    "details": "Tipo: Soporte\nColor: Antracita",
+    "image": "assets/SOP-003.webp",
+    "page": 33
+  },
+  {
+    "code": "RIELG-001",
+    "name": "Riel Granero Con Freno",
+    "category": "Herrajes para clóset",
+    "details": "Medida: 2 MTS\nTipo: Riel Granero Con Freno\nColor: Negro",
+    "image": "assets/RIELG-001.webp",
+    "page": 34
+  },
+  {
+    "code": "RIELINV-002",
+    "name": "RIELINV-002",
+    "category": "Herrajes para clóset",
+    "details": "Riel Invisible Para Puerta\nPara Puertas: 80cm a 1.20m\nSistema De Freno\nPeso: 80kg",
+    "image": "assets/RIELINV-002.webp",
+    "page": 34
+  },
+  {
+    "code": "CUBO-001",
+    "name": "Con Sensor 9 Litros",
+    "category": "Papeleras",
+    "details": "Medida (mm): 295X210X310\nTipo: Con Sensor 9 Litros\nColor: Acero Inoxidable\nPilas: 6xAAA",
+    "image": "assets/CUBO-001.webp",
+    "page": 35
+  },
+  {
+    "code": "CUBO-002",
+    "name": "Con Sensor 12 Litros",
+    "category": "Papeleras",
+    "details": "Medida (mm): 295X210X397\nTipo: Con Sensor 12 Litros\nColor: Acero Inoxidable\nPilas: 6XAAA",
+    "image": "assets/CUBO-002.webp",
+    "page": 35
+  },
+  {
+    "code": "CUBO-003",
+    "name": "Con Sensor 12 Litros",
+    "category": "Papeleras",
+    "details": "Medida (mm): 235X175X318\nTipo: Con Sensor 12 Litros\nColor: Blanca\nPilas: 2XAA",
+    "image": "assets/CUBO-003.webp",
+    "page": 35
+  },
+  {
+    "code": "CUBO-004",
+    "name": "Con Sensor 16 Litros",
+    "category": "Papeleras",
+    "details": "Medida (mm): 266X202X365\nTipo: Con Sensor 16 Litros\nColor: Blanca\nPilas: 2XAA",
+    "image": "assets/CUBO-004.webp",
+    "page": 35
+  },
+  {
+    "code": "CUBO-005",
+    "name": "Con Sensor Luz Led de 15 litros",
+    "category": "Papeleras",
+    "details": "Medida (mm): 237X235X334\nTipo: Con Sensor Luz Led de 15 litros\nColor: Blanca\nBatería Recargable",
+    "image": "assets/CUBO-005.webp",
+    "page": 35
+  },
+  {
+    "code": "CUBO-006",
+    "name": "30 Litros pedal Manual",
+    "category": "Papeleras",
+    "details": "Medida (mm): 395X270X540\nTipo: 30 Litros pedal Manual\nColor: Acero Inoxidable",
+    "image": "assets/CUBO-006.webp",
+    "page": 35
+  },
+  {
+    "code": "CUBO-007",
+    "name": "9 Litros",
+    "category": "Papeleras",
+    "details": "Medida (mm): 260X150X280\nTipo: 9 Litros\nColor: Blanca",
+    "image": "assets/CUBO-007.webp",
+    "page": 36
+  },
+  {
+    "code": "PAPE-101",
+    "name": "Papelera Dos Cubos",
+    "category": "Papeleras",
+    "details": "Medida (mm): 392X500X570\nTipo: Papelera Dos Cubos\n35 Litros c/u = 70L\nColor: Gris\nCierre con freno...",
+    "image": "assets/PAPE-101.webp",
+    "page": 36
+  },
+  {
+    "code": "PAPE-102",
+    "name": "Papelera Dos Cubos",
+    "category": "Papeleras",
+    "details": "Medida (mm): 490X330X360\nTipo: Papelera Dos Cubos\n20 Litros c/u = 40L\nColor: Gris\nMueble de 400mm...",
+    "image": "assets/PAPE-102.webp",
+    "page": 36
+  },
+  {
+    "code": "PAPE-103",
+    "name": "Papelera Dos Cubos",
+    "category": "Papeleras",
+    "details": "Medida (mm): 342X490X425\nTipo: Papelera Dos Cubos\n20 Litros c/u = 40L\nColor: Blanco\nMueble de 400mm...",
+    "image": "assets/PAPE-103.webp",
+    "page": 36
+  },
+  {
+    "code": "PAPE-104",
+    "name": "Papelera para Empotrar de 12 Litros",
+    "category": "Papeleras",
+    "details": "Medida (mm):\nTipo: Papelera para Empotrar de 12 Litros\nColor: Plateado - Acero Inoxidable",
+    "image": "assets/PAPE-104.webp",
+    "page": 36
+  },
+  {
+    "code": "PAPE-105",
+    "name": "Papelera Dos Cubos",
+    "category": "Papeleras",
+    "details": "Medida (mm): 480X345X430\nTipo: Papelera Dos Cubos\n20 Litros c/u = 40L\nColor: Gris\nPara mueble de 400mm...",
+    "image": "assets/PAPE-105.webp",
+    "page": 36
+  },
+  {
+    "code": "PAPE-106",
+    "name": "Papelera Dos Cubos",
+    "category": "Papeleras",
+    "details": "Tipo: Papelera Dos Cubos\nMedida (mm): 265X500X500\nCapacidad: 18L + 6L\nPara Mueble de 30cm",
+    "image": "assets/PAPE-106.webp",
+    "page": 37
+  },
+  {
+    "code": "GOL-LP",
+    "name": "Perfil Gola L",
+    "category": "Perfiles",
+    "details": "Medida: 4 MTS\nTipo: Perfil Gola L\nColor: Plata Mate",
+    "image": "assets/GOL-LP.webp",
+    "page": 38
+  },
+  {
+    "code": "GOL-CP",
+    "name": "Perfil Gola C",
+    "category": "Perfiles",
+    "details": "Medida: 4 MTS\nTipo: Perfil Gola C\nColor: Plata Mate",
+    "image": "assets/GOL-CP.webp",
+    "page": 38
+  },
+  {
+    "code": "GOL-SP",
+    "name": "GOL-SP",
+    "category": "Perfiles",
+    "details": "Perfil Gola Superior\nMedida: 4 Metros de largo\nColor: Plateado",
+    "image": "assets/GOL-SP.webp",
+    "page": 38
+  },
+  {
+    "code": "GOL-LN",
+    "name": "Perfil Gola L",
+    "category": "Perfiles",
+    "details": "Medida: 4 MTS\nTipo: Perfil Gola L\nColor: Negro",
+    "image": "assets/GOL-LN.webp",
+    "page": 38
+  },
+  {
+    "code": "GOL-CN",
+    "name": "Perfil Gola C",
+    "category": "Perfiles",
+    "details": "Medida: 4 MTS\nTipo: Perfil Gola C\nColor: Negro",
+    "image": "assets/GOL-CN.webp",
+    "page": 38
+  },
+  {
+    "code": "GOL-SN",
+    "name": "GOL-SN",
+    "category": "Perfiles",
+    "details": "Perfil Gola Superior\nMedida: 4 Metros de largo\nColor: Negro",
+    "image": "assets/GOL-SN.webp",
+    "page": 38
+  },
+  {
+    "code": "GOLED-LP",
+    "name": "GOLED-LP",
+    "category": "Perfiles",
+    "details": "Perfil Gola L Para Luz LED\nMedida: 4 Metros de largo\nColor: Plateado\nIncluye Luz led fría\nNecesita transformador 12V (no lo incluye)...",
+    "image": "assets/GOLED-LP.webp",
+    "page": 38
+  },
+  {
+    "code": "GOLED-CP",
+    "name": "GOLED-CP",
+    "category": "Perfiles",
+    "details": "Perfil Gola C Para Luz LED\nMedida: 4 Metros de largo\nColor: Plateado\nIncluye luz led fría\nNecesita transformador 12V (no lo incluye)...",
+    "image": "assets/GOLED-CP.webp",
+    "page": 39
+  },
+  {
+    "code": "GOLED-SP",
+    "name": "GOLED-SP",
+    "category": "Perfiles",
+    "details": "Perfil Gola Superior Para Luz LED\nMedida: 4 Metros de largo\nColor: Plateado\nIncluye luz led fría\nNecesita transformador 12V (no lo incluye)...",
+    "image": "assets/GOLED-SP.webp",
+    "page": 39
+  },
+  {
+    "code": "GOLED-LN",
+    "name": "GOLED-LN",
+    "category": "Perfiles",
+    "details": "Perfil Gola L Para Luz LED\nMedida: 4 Metros de largo\nColor: Negro\nIncluye Luz led fría\nNecesita transformador 12V (no lo incluye)...",
+    "image": "assets/GOLED-LN.webp",
+    "page": 39
+  },
+  {
+    "code": "GOLED-CN",
+    "name": "GOLED-CN",
+    "category": "Perfiles",
+    "details": "Perfil Gola C Para Luz LED\nMedida: 4 Metros de largo\nColor: Negro\nIncluye luz led fría\nNecesita transformador 12V (no lo incluye)...",
+    "image": "assets/GOLED-CN.webp",
+    "page": 39
+  },
+  {
+    "code": "GOLED-SN",
+    "name": "GOLED-SN",
+    "category": "Perfiles",
+    "details": "Perfil Gola Superior Para Luz LED\nMedida: 4 Metros de largo\nColor: Negro\nIncluye luz led fría\nNecesita transformador 12V (no lo incluye)...",
+    "image": "assets/GOLED-SN.webp",
+    "page": 39
+  },
+  {
+    "code": "GOL-002",
+    "name": "Tapa Gola L",
+    "category": "Perfiles",
+    "details": "Tipo: Tapa Gola L\nColor: Plata Mate",
+    "image": "assets/GOL-002.webp",
+    "page": 39
+  },
+  {
+    "code": "GOL-003",
+    "name": "Tapa Gola L",
+    "category": "Perfiles",
+    "details": "Tipo: Tapa Gola L\nColor: Negro",
+    "image": "assets/GOL-003.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-001",
+    "name": "Conector Gola Negro",
+    "category": "Perfiles",
+    "details": "Tipo: Conector Gola Negro\nColor: Negro",
+    "image": "assets/GOL-001.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-004",
+    "name": "Ángulos Gola",
+    "category": "Perfiles",
+    "details": "Tipo: Ángulos Gola\nColor: Zinc Blanco",
+    "image": "assets/GOL-004.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-005",
+    "name": "Ángulos Gola Conector Interno",
+    "category": "Perfiles",
+    "details": "Tipo: Ángulos Gola Conector Interno\nColor: Plata Mate",
+    "image": "assets/GOL-005.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-006",
+    "name": "Ángulos Gola Conector Interno",
+    "category": "Perfiles",
+    "details": "Tipo: Ángulos Gola Conector Interno\nColor: Negro",
+    "image": "assets/GOL-006.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-007",
+    "name": "Angulo Gola Conector Externo",
+    "category": "Perfiles",
+    "details": "Tipo: Angulo Gola Conector Externo\nColor: Plata Mate",
+    "image": "assets/GOL-007.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-009",
+    "name": "Tapa Gola C",
+    "category": "Perfiles",
+    "details": "Tipo: Tapa Gola C\nColor: Plata Mate",
+    "image": "assets/GOL-009.webp",
+    "page": 40
+  },
+  {
+    "code": "GOL-010",
+    "name": "Tapa Gola C",
+    "category": "Perfiles",
+    "details": "Tipo: Tapa Gola C\nColor: Negro",
+    "image": "assets/GOL-010.webp",
+    "page": 41
+  },
+  {
+    "code": "WP-179-G2",
+    "name": "WP-179-G2",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-179-G2.webp",
+    "page": 42
+  },
+  {
+    "code": "WP-179-M1",
+    "name": "WP-179-M1",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm):  120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-179-M1.webp",
+    "page": 42
+  },
+  {
+    "code": "WP-179-M2",
+    "name": "WP-179-M2",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-179-M2.webp",
+    "page": 42
+  },
+  {
+    "code": "WP-269-G1",
+    "name": "WP-269-G1",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-269-G1.webp",
+    "page": 42
+  },
+  {
+    "code": "WP-269-M1",
+    "name": "WP-269-M1",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-269-M1.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-269-M2",
+    "name": "WP-269-M2",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-269-M2.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-781-M6",
+    "name": "WP-781-M6",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-781-M6.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-781-M5",
+    "name": "WP-781-M5",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm):  120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-781-M5.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-781-M7",
+    "name": "WP-781-M7",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 12\nLargo (mm): 2850",
+    "image": "assets/WP-781-M7.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-990-G3",
+    "name": "WP-990-G3",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 152\nEspesor (mm): 20\nLargo (mm): 2850",
+    "image": "assets/WP-990-G3.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-990-M4",
+    "name": "WP-990-M4",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 152\nEspesor (mm): 20\nLargo (mm): 2850",
+    "image": "assets/WP-990-M4.webp",
+    "page": 43
+  },
+  {
+    "code": "WP-770-G2",
+    "name": "WP-770-G2",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 148\nEspesor (mm): 13\nLargo (mm): 2850",
+    "image": "assets/WP-770-G2.webp",
+    "page": 44
+  },
+  {
+    "code": "WP-770-P1",
+    "name": "WP-770-P1",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 148\nEspesor (mm): 13\nLargo (mm): 2850",
+    "image": "assets/WP-770-P1.webp",
+    "page": 44
+  },
+  {
+    "code": "WP-510-C2",
+    "name": "WP-510-C2",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 122\nEspesor (mm): 14\nLargo (mm): 2850",
+    "image": "assets/WP-510-C2.webp",
+    "page": 44
+  },
+  {
+    "code": "RS-230-B",
+    "name": "RS-230-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 100\nEspesor (mm): 18\nLargo (mm): 2850",
+    "image": "assets/RS-230-B.webp",
+    "page": 44
+  },
+  {
+    "code": "RS-401-B",
+    "name": "RS-401-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 100\nEspesor (mm): 18\nLargo (mm): 2850",
+    "image": "assets/RS-401-B.webp",
+    "page": 44
+  },
+  {
+    "code": "RS-771-B",
+    "name": "RS-771-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 100\nEspesor (mm): 18\nLargo (mm): 2850",
+    "image": "assets/RS-771-B.webp",
+    "page": 44
+  },
+  {
+    "code": "RL-810-B",
+    "name": "RL-810-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 100\nEspesor (mm): 18\nLargo (mm): 2850",
+    "image": "assets/RL-810-B.webp",
+    "page": 44
+  },
+  {
+    "code": "RS-844-B",
+    "name": "RS-844-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm):  60\nEspesor (mm): 15\nLargo (mm): 2850",
+    "image": "assets/RS-844-B.webp",
+    "page": 45
+  },
+  {
+    "code": "RL-910-B",
+    "name": "RL-910-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 120\nEspesor (mm): 18\nLargo (mm): 2850",
+    "image": "assets/RL-910-B.webp",
+    "page": 45
+  },
+  {
+    "code": "CM-750-B",
+    "name": "CM-750-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 46\nEspesor (mm): 94\nLargo (mm): 2850",
+    "image": "assets/CM-750-B.webp",
+    "page": 45
+  },
+  {
+    "code": "CM-361-B",
+    "name": "CM-361-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 34\nEspesor (mm): 107\nLargo (mm): 2850",
+    "image": "assets/CM-361-B.webp",
+    "page": 45
+  },
+  {
+    "code": "MS-701-B",
+    "name": "MS-701-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 25\nEspesor (mm): 13\nLargo (mm): 2850",
+    "image": "assets/MS-701-B.webp",
+    "page": 45
+  },
+  {
+    "code": "MS-710-B",
+    "name": "MS-710-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm):  37\nEspesor (mm): 15\nLargo (mm): 2850",
+    "image": "assets/MS-710-B.webp",
+    "page": 45
+  },
+  {
+    "code": "MS-720-B",
+    "name": "MS-720-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 61\nEspesor (mm): 19\nLargo (mm): 2850",
+    "image": "assets/MS-720-B.webp",
+    "page": 45
+  },
+  {
+    "code": "MS-101-B",
+    "name": "MS-101-B",
+    "category": "Wall panels y molduras",
+    "details": "Ancho (mm): 30\nEspesor (mm): 10\nLargo (mm): 2850",
+    "image": "assets/MS-101-B.webp",
+    "page": 46
+  },
+  {
+    "code": "WP-101-G2",
+    "name": "WP-101-G2",
+    "category": "Wall panels y molduras",
+    "details": "Consulta características y medidas de esta referencia con el equipo POSH.",
+    "image": null,
+    "page": 42
+  },
+  {
+    "code": "WP-101-M1",
+    "name": "WP-101-M1",
+    "category": "Wall panels y molduras",
+    "details": "Consulta características y medidas de esta referencia con el equipo POSH.",
+    "image": null,
+    "page": 42
+  },
+  {
+    "code": "WP-101-M2",
+    "name": "WP-101-M2",
+    "category": "Wall panels y molduras",
+    "details": "Consulta características y medidas de esta referencia con el equipo POSH.",
+    "image": null,
+    "page": 42
+  }
+]
