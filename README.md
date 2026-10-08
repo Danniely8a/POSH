@@ -8,9 +8,22 @@ Abre `dist/index.html` en tu navegador. Funciona sin instalar dependencias y sin
 ## Editar y generar
 Instala Node.js. No se necesitan paquetes externos.
 
-1. Edita los archivos de `src/`.
+1. Editar los archivos de `src/`.
 2. Ejecuta `npm run build` desde la carpeta del proyecto.
 3. Abre `dist/index.html` o ejecuta `npm start` y visita http://localhost:3000.
+
+## GitHub y Vercel (publicación automática)
+- Repositorio: https://github.com/Danniely8a/POSH (rama `main`).
+- Vercel está conectado al repositorio: cada `push` a `main` ejecuta `npm run build` y publica `dist/` automáticamente.
+
+### Flujo para modificaciones futuras
+1. Editar los archivos de `src/`.
+2. Ejecutar `npm run build` y revisar el resultado en `dist/index.html` o en `npm start`.
+3. `git add -A`, `git commit -m "descripcion del cambio"`, `git push origin main`.
+4. Vercel despliega solo el cambio en unos segundos.
+
+### Desplegar a mano desde la terminal (opcional)
+Si prefieres forzar un deploy sin esperar al push: `vercel --prod` (requiere `vercel login` la primera vez).
 
 ## WhatsApp (pendiente de número)
 En `src/config.js`, completa `whatsappNumber` con el código de país y el número, solo dígitos, sin `+`, espacios ni guiones. Modifica `whatsappMessage` si lo deseas y ejecuta `npm run build`.
@@ -33,7 +46,7 @@ Algunos productos sin título explícito utilizan un nombre general y su código
 Este proyecto es un catálogo estático: no incluye administración, inventario sincronizado, pagos ni servidor de ventas. WhatsApp prepara una consulta para que el visitante la envíe.
 
 ## Publicar por tu cuenta
-Sube `dist/index.html` a un alojamiento para páginas estáticas. También puedes copiarlo a otro proyecto. El ZIP no contiene credenciales ni la identidad del alojamiento privado actual.
+El canal oficial es GitHub + Vercel (ver arriba). Si quieres otro alojamiento, sube `dist/index.html` a cualquier servidor de páginas estáticas; también puedes copiarlo a otro proyecto.
 
 ## Hero de ambiente
 `src/assets/posh-ambiente-hero.png` es una escena inspiracional generada a partir de imágenes de productos del catálogo; no es una fotografía de una instalación real. El catálogo conserva las fotografías originales de los productos.
