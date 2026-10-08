@@ -2,6 +2,8 @@
 
 Incluye inicio, hero con ambiente decorado y accesos por categoría, catálogo de 256 referencias, búsqueda por código/nombre/medida, categorías, paginación, fichas y consultas por WhatsApp. Colores: lila, gris claro, blanco y negro.
 
+**Sitio publicado:** https://posh-seven-cyan.vercel.app
+
 ## Ver la página
 Abre `dist/index.html` en tu navegador. Funciona sin instalar dependencias y sin conexión, excepto los enlaces a Instagram/WhatsApp.
 
@@ -15,6 +17,7 @@ Instala Node.js. No se necesitan paquetes externos.
 ## GitHub y Vercel (publicación automática)
 - Repositorio: https://github.com/Danniely8a/POSH (rama `main`).
 - Vercel está conectado al repositorio: cada `push` a `main` ejecuta `npm run build` y publica `dist/` automáticamente.
+- Producción: https://posh-seven-cyan.vercel.app (proyecto `posh` en Vercel).
 
 ### Flujo para modificaciones futuras
 1. Editar los archivos de `src/`.
